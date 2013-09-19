@@ -1,4 +1,4 @@
 Love2DtoCoronaSDK
 =================
 
-An easy template to port Love2D games to CoronaSDK
+An easy template to port Löve games to CoronaSDK
